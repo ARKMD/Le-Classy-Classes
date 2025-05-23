@@ -1,5 +1,5 @@
 # Le-Classy-Classes
-Yes, said with 'la' for some nice French elegance.
+Yes, said with 'le' for some nice French elegance.
 
 A refined program of utmost purity and elegance in the discipline of classiness. Does that make sense? Naturally.
 
