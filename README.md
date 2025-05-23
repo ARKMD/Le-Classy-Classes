@@ -20,3 +20,8 @@ You can call these methods (note, you don't need to add in any parameters as the
 .get_class() #This method is automatically called through all other methods, but you can call it yourself directly if you want to freely become classier.
 
 That is all!
+
+
+
+
+P.S., one note: you may notice that the beginning has imported libraries. Well, this originally had a main game loop that required those (at least os--I have no clue why I imported math). It seems that when I removed it to make it more easily customizable for this repository, I kept those imports. My bad xd.
